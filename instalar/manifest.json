@@ -1,8 +1,8 @@
 {
-  "name": "Domótica
+  "name": "Domótica",
   "short_name": "Domótica",
-  "start_url": "/index.html",
-  "scope": "/",
+  "start_url": "/casa-domotica/index.html",
+  "scope": "/casa-domotica/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",

@@ -1,10 +1,10 @@
-const CACHE_NAME = 'app-cache-v3';
+const CACHE_NAME = 'app-cache-v4';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/instalar/pwa.js',
-  '/instalar/icon-192.png',
-  '/instalar/icon-512.png'
+  '/casa-domotica/',
+  '/casa-domotica/index.html',
+  '/casa-domotica/instalar/pwa.js',
+  '/casa-domotica/instalar/icon-192.png',
+  '/casa-domotica/instalar/icon-512.png'
 ];
 
 self.addEventListener('install', (event) => {
